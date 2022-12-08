@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "khushi",
+      "username": "khushiagni",
+      "email": "khushi123@gmail.com",
+      "phone": "4567890987",
+      "website": "asdf",
+      "id": 13
+    },
+    {
+      "name": "kk",
+      "username": "kk1",
+      "email": "khushboo12@gmail.com",
+      "phone": "2334678",
+      "website": "mmmnnn",
+      "id": 18
+    },
+    {
+      "name": "pp",
+      "username": "gggggg",
+      "email": "ttrrttt@gmail.com",
+      "phone": "ddfgtgh",
+      "website": "ffdderdff",
+      "id": 21
+    },
+    {
+      "name": "gg",
+      "username": "khushikumyui",
+      "email": "khuhj12@gmail.com",
+      "phone": "1234567895",
+      "website": "google",
+      "id": 26
+    }
+  ]
+}
